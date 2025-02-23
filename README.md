@@ -9,14 +9,14 @@
 
 ## 🛠 Tecnologias e Ferramentas  
 <div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg?color=ffffff" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg?color=ffffff" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg?color=ffffff" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg?color=ffffff" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg?color=ffffff" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg?color=ffffff" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg?color=ffffff" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg?color=ffffff" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/CSharp-ffffff?style=for-the-badge&logo=csharp&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
 </div>
 
 ---
