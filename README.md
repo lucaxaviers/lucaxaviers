@@ -26,10 +26,10 @@
 
 ---
 
-📫 **Contato:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-xavier-b485a1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaxaviers)  
-[![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaxaviers?igsh=MWcwYWowaTB5anM0MQ%3D%3D&utm_source=qr)  
+## 📫 **Contato:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-xavier-b485a1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/lucaxaviers)  
+[![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucaxaviers?igsh=MWcwYWowaTB5anM0MQ%3D%3D&utm_source=qr)  
 
 <!---
 lucaxaviers/lucaxaviers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
