@@ -10,19 +10,19 @@
 ## 🛠 Tecnologias e Ferramentas  
 - **Linguagens:** Python, JavaScript, Java  
 - **Frontend:** HTML, CSS, React  
-- **Backend:** Node.js
-- **Banco de Dados:** MySQL, 
-- **Ferramentas:** Git, GitHub  
+- **Backend:** Node.js, Django  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Versionamento:** Git, GitHub  
 
 ---
 
 ## 📊 Minhas Estatísticas  
-![Lucas Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark)  
+![Lucas Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark)
 
 ---
 
 ## 🧑‍💻 Linguagens mais usadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark)
 
 ---
 
