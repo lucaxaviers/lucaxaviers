@@ -14,7 +14,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_Server_Logo_2019.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SQL_logo.svg/800px-SQL_logo.svg.png" width="50" height="50" />
 </div>
 
 📫 Vamos conectar!
