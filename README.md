@@ -9,13 +9,13 @@
 
 ## 🛠 Tecnologias e Ferramentas  
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/HTML5_logo_and_wordmark.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/React.js_Logo_2017.png" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Django_logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postgresql_logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Git-Logo.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="40" height="40" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="40" height="40" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="40" height="40" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="40" height="40" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="40" height="40" />
 </div>
 
 ---
