@@ -26,17 +26,6 @@
 
 ---
 
-## 📈 Contribuições no GitHub  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucaxaviers&bg_color=000000&color=ffffff&line=ffffff&point=00ff00&area=true&area_color=000000)
-
----
-
-## 🎯 Troféus e Conquistas  
-![Repositórios](https://img.shields.io/github/repo-size/lucaxaviers/repository-name?style=flat-square)  
-![Seguidores](https://img.shields.io/github/followers/lucaxaviers?style=flat-square)
-
----
-
 📫 **Contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-xavier-b485a1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaxaviers)  
