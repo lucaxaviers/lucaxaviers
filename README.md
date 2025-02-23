@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Lucas Xavier  
+# 👋 Olá! Sou o Xavier  
 
 💻 **Sobre mim:**  
 - 🎓 Formado em Técnico em Informática pelo Colégio Bento Quirino  
@@ -21,11 +21,10 @@
 
 ---
 
-🎯 **"Sempre aprendendo e construindo soluções inovadoras!"**  
-
 📫 **Contato:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-xavier-b485a1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaxaviers)  
+[![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaxaviers?igsh=MWcwYWowaTB5anM0MQ%3D%3D&utm_source=qr)  
 
 <!---
 lucaxaviers/lucaxaviers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
