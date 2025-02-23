@@ -8,13 +8,13 @@
 
 ## Principais Projetos Realizados
 
-### 1. **Projeto de E-commerce**
+### **Projeto de E-commerce**
    - Desenvolvimento de um sistema de e-commerce com funcionalidades de login, cadastro de produto e carrinho de compras.
 
-### 2. **Aplicativo de Controle de Tarefas**
+### **Aplicativo de Controle de Tarefas**
    - Aplicativo mobile para gerenciamento de tarefas, desenvolvido em React Native.
 
-### 3. **Sistema de Gerenciamento de Estoque**
+### **Sistema de Gerenciamento de Estoque**
    - Sistema para controle de inventário de produtos utilizando Python e banco de dados MySQL.
 
 ## Tecnologias que já aprendi
