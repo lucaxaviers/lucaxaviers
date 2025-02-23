@@ -9,14 +9,14 @@
 
 ## 🛠 Tecnologias e Ferramentas  
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60" height="60" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60" height="60" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="60" height="60" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="60" height="60" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="60" height="60" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="60" height="60" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" width="60" height="60" style="margin-right: 10px;"/>
 </div>
 
 ---
