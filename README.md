@@ -18,8 +18,22 @@
 
 ## 📊 Minhas Estatísticas  
 ![Lucas Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark)  
+
+---
+
+## 🧑‍💻 Linguagens mais usadas  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact)
+
+---
+
+## 📈 Contribuições no GitHub  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucaxaviers&bg_color=000000&color=ffffff&line=ffffff&point=00ff00&area=true&area_color=000000)
+
+---
+
+## 🎯 Troféus e Conquistas  
+![Repositórios](https://img.shields.io/github/repo-size/lucaxaviers/repository-name?style=flat-square)  
+![Seguidores](https://img.shields.io/github/followers/lucaxaviers?style=flat-square)
 
 ---
 
