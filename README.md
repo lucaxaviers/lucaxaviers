@@ -9,14 +9,14 @@
 
 ## 🛠 Tecnologias e Ferramentas  
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/HTML5_logo_and_wordmark.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language_logo.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/C%23_Logo.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="60" height="60" style="margin-right: 10px;"/>
 </div>
 
 ---
