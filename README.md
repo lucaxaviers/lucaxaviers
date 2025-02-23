@@ -1,6 +1,6 @@
 # Lucas Xavier
 
-💻 Olá! Me chamam de Xavier
+💻 Olá! Me chamam de Xavier     
 📌 18 anos  
 🎓 Formado em Técnico em Informática pelo Colégio Bento Quirino  
 📚 Cursando Engenharia de Software na PUC  
