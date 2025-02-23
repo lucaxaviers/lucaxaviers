@@ -9,14 +9,15 @@
 
 ## 🛠 Tecnologias e Ferramentas  
 <div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="60" height="60" style="margin-right: 10px; color: white;"/>
 </div>
 
 ---
