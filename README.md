@@ -10,9 +10,9 @@
 ## 🛠 Tecnologias e Ferramentas  
 - **Linguagens:** Python, JavaScript, Java  
 - **Frontend:** HTML, CSS, React  
-- **Backend:** Node.js, Django  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Versionamento:** Git, GitHub  
+- **Backend:** Node.js
+- **Banco de Dados:** MySQL, 
+- **Ferramentas:** Git, GitHub  
 
 ---
 
