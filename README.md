@@ -8,11 +8,15 @@
 ---
 
 ## 🛠 Tecnologias e Ferramentas  
-- **Linguagens:** Python, JavaScript, Java  
-- **Frontend:** HTML, CSS, React  
-- **Backend:** Node.js, Django  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Versionamento:** Git, GitHub  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/HTML5_logo_and_wordmark.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/React.js_Logo_2017.png" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Django_logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postgresql_logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Git-Logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg" width="40" height="40" />
+</div>
 
 ---
 
@@ -27,9 +31,17 @@
 ---
 
 ## 📫 **Contato:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-xavier-b485a1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/lucaxaviers)  
-[![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucaxaviers?igsh=MWcwYWowaTB5anM0MQ%3D%3D&utm_source=qr)  
+<div>
+  <a href="https://www.linkedin.com/in/lucas-rodrigues-xavier-b485a1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lucaxaviers">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lucaxaviers?igsh=MWcwYWowaTB5anM0MQ%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 <!---
 lucaxaviers/lucaxaviers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
