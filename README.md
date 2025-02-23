@@ -6,6 +6,17 @@
 📚 Cursando Engenharia de Software na PUC  
 🚀 Sempre buscando aprender mais  
 
+## Principais Projetos Realizados
+
+### 1. **Projeto de E-commerce**
+   - Desenvolvimento de um sistema de e-commerce com funcionalidades de login, cadastro de produto e carrinho de compras.
+
+### 2. **Aplicativo de Controle de Tarefas**
+   - Aplicativo mobile para gerenciamento de tarefas, desenvolvido em React Native.
+
+### 3. **Sistema de Gerenciamento de Estoque**
+   - Sistema para controle de inventário de produtos utilizando Python e banco de dados MySQL.
+
 ## Tecnologias que já aprendi
 
 <div style="display: flex; gap: 10px;">
@@ -14,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/MySQL_Logo.svg/220px-MySQL_Logo.svg.png" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/MySQL_logo.svg" width="50" height="50" />
 </div>
 
 ## Redes Sociais
