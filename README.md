@@ -14,10 +14,9 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="60" height="60" style="margin-right: 10px;"/>
 </div>
 
 ---
@@ -37,11 +36,11 @@
   <a href="https://www.linkedin.com/in/lucas-rodrigues-xavier-b485a1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/lucaxaviers">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.instagram.com/lucaxaviers?igsh=MWcwYWowaTB5anM0MQ%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/lucaxaviers">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
