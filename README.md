@@ -8,15 +8,15 @@
 ---
 
 ## 🛠 Tecnologias e Ferramentas  
-<div>
-  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/CSharp-ffffff?style=for-the-badge&logo=csharp&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=white" width="60" height="60" style="margin-right: 10px;"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="60" height="60" style="filter: invert(100%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="60" height="60" style="filter: invert(100%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="60" height="60" style="filter: invert(100%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="60" height="60" style="filter: invert(100%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="60" height="60" style="filter: invert(100%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" width="60" height="60" style="filter: invert(100%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" width="60" height="60" style="filter: invert(100%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="60" height="60" style="filter: invert(100%);"/>
 </div>
 
 ---
