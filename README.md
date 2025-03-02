@@ -1,9 +1,9 @@
 # 👋 Olá! Sou o Xavier  
 
 💻 **Sobre mim:**  
-  🎓 Formado em Técnico em Informática pelo Colégio Bento Quirino  
-  📚 Cursando Engenharia de Software na PUC-Campinas  
-  🚀 Sempre buscando aprender mais e aprimorar minhas habilidades  
+- 🎓 Formado em Técnico em Informática pelo Colégio Bento Quirino  
+- 📚 Cursando Engenharia de Software na PUC-Campinas  
+- 🚀 Sempre buscando aprender mais e aprimorar minhas habilidades  
 
 ---
 
