@@ -1,6 +1,4 @@
-minha stars nao atualiza
-
-# 👋🏻 Olá! Sou o Xavier  
+#👋🏻 Olá! Sou o Xavier  
 
 💻 **Sobre mim:**  
 - 🎓 Formado em Técnico em Informática pelo Colégio Bento Quirino  
