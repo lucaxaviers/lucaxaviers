@@ -26,7 +26,7 @@
 ---
 
 ## 📊 Minhas Estatísticas  
-![Lucas Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark&count_private=true)
+![Lucas Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark&count_private=false)
 
 ---
 
