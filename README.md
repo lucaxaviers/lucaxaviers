@@ -1,6 +1,6 @@
 # 👋🏻 Olá! Sou o Xavier  
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?71CADB46AE7FBBBF2ECD89588666F2DD0ED1
+https://prod.liveshare.vsengsaas.visualstudio.com/join?730BAB663118EF830D45F45E8E68B1AADA65
 
 💻 **Sobre mim:**  
 - 🎓 Formado em Técnico em Informática pelo Colégio Bento Quirino  
