@@ -6,7 +6,8 @@
 - 🚀 Sempre buscando aprender mais e aprimorar minhas habilidades  
 
 ---
-
+https://prod.liveshare.vsengsaas.visualstudio.com/join?C268363154D011E999E76436435D13DBC283
+---
 ## 🛠 Tecnologias e Ferramentas  
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://camo.githubusercontent.com/f99a2a0a1155e5f2b7276ee8533a602c2b34e59e8d03c44c48fc4442660e9752/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" width="50" height="50"/>
