@@ -31,7 +31,7 @@ src="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580
 ---
 
 ## 🧑‍💻 Linguagens mais usadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxavier&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark)
 
 ---
 
