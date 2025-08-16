@@ -46,4 +46,4 @@ src="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580
   <a href="https://github.com/lucaxaviers">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div> q qposso add /arrumar?
+</div>
