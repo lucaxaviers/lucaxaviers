@@ -44,13 +44,19 @@
 
 ## 📊 Estatísticas GitHub  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaxaviers&theme=github_dark" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.pemorella.dev/api?username=lucaxaviers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaxaviers&theme=github_dark" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.pemorella.dev/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucaxaviers&theme=github_dark&utcOffset=-3" />
+</p>
 
 ---
 
