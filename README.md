@@ -7,7 +7,7 @@
 ## 🚀 Sobre mim  
 
 - 🎓 Técnico em Informática pelo Colégio Bento Quirino  
-- 🎓 Graduando em Engenharia de Software na PUC-Campinas    
+- 🎓 Graduando em Engenharia de Software na PUC-Campinas  
 - 🚀 Sempre aprendendo e aprimorando minhas habilidades  
 
 ---
@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.pemorella.dev/api?username=lucaxaviers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.pemorella.dev/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark"/>
 
 </div>
 
