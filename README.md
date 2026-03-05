@@ -9,8 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 🎓 Estudante de **Engenharia de Software**  
-👨🏼‍🎓 Formado em Técnico em Informática
-🚀 Interessado em desenvolvimento de software  
+👨🏼‍🎓 Formado em Técnico em Informática  
 📚 Sempre aprendendo novas tecnologias
 
 ---
