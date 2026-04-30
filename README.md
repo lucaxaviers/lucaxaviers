@@ -1,38 +1,51 @@
-<h1 align="center">Lucas Xavier</h1>
-<p align="center">Estudante de Engenharia de Software</p>
+<div align="center">
+
+```
+██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗    ██╗  ██╗ █████╗ ██╗   ██╗██╗███████╗██████╗
+██║     ██║   ██║██╔════╝██╔══██╗██╔════╝    ╚██╗██╔╝██╔══██╗██║   ██║██║██╔════╝██╔══██╗
+██║     ██║   ██║██║     ███████║███████╗     ╚███╔╝ ███████║██║   ██║██║█████╗  ██████╔╝
+██║     ██║   ██║██║     ██╔══██║╚════██║     ██╔██╗ ██╔══██║╚██╗ ██╔╝██║██╔══╝  ██╔══██╗
+███████╗╚██████╔╝╚██████╗██║  ██║███████║    ██╔╝ ██╗██║  ██║ ╚████╔╝ ██║███████╗██║  ██║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+PUC-Campinas+%5B3°+sem%5D;Fullstack+Dev+in+progress...;TypeScript+%7C+React+%7C+Clean+Code;Always+learning%2C+always+shipping+%F0%9F%9A%80)
+
+</div>
 
 ---
 
-### Sobre
-
-🎓 Estudante de **Engenharia de Software** na **PUC-Campinas** — cursando o **3° semestre**
-👨🏼‍🎓 Formado em **Técnico em Informática**
-💻 Tecnologia, desenvolvimento de software e boas práticas de código
-🚀 Sempre explorando novas ferramentas, frameworks e conceitos para evoluir como dev
+```yaml
+profile:
+  name: Lucas Xavier
+  role: Software Engineering Student
+  university: PUC-Campinas
+  semester: 3rd
+  background: Técnico em Informática
+  focus:
+    - TypeScript
+    - React
+    - Clean Code
+    - Fullstack Web Dev
+  status: "always learning..."
+```
 
 ---
 
-### Stack
+### ⚡ Stack
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,php,python,mysql,cpp,c&theme=dark&perline=10" />
+</div>
 
 ---
 
-### Estatísticas
+### 📊 Estatísticas
 
 <div align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=github_dark"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=github_dark"/>
 </div>
-
----
-
-### Curiosidades
-
-- 🧠 Fascinado por **lógica de programação** e resolução de problemas
-- 🌐 Interesse em **desenvolvimento web** fullstack e **engenharia de software**
-- 🔧 Gosto de entender como as coisas funcionam por baixo dos panos
-- 🎯 Foco atual: aprofundar em **TypeScript**, **React** e boas práticas de **Clean Code**
 
 ---
 
@@ -53,5 +66,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucaxaviers&color=0A66C2&style=flat-square&label=visitantes+no+perfil" />
+<img src="https://komarev.com/ghpvc/?username=lucaxaviers&color=00F7FF&style=flat-square&label=profile+views"/>
 </div>
