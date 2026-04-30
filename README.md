@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7b2fff&height=200&section=header&text=Lucas%20Xavier&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:7b2fff,100:00f7ff&height=200&section=header&text=Lucas%20Xavier&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -52,12 +52,12 @@ status: "Building the future, one commit at a time 🚀"
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=github_dark"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=github_dark"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaxaviers&theme=react-dark&color=00f7ff&line=7b2fff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaxaviers&bg_color=0d0d1a&color=00f7ff&line=7b2fff&point=00f7ff&area_color=7b2fff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -88,10 +88,10 @@ status: "Building the future, one commit at a time 🚀"
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=lucaxaviers&color=00F7FF&style=flat-square&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=lucaxaviers&color=7b2fff&style=flat-square&label=profile+views"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,100:00f7ff&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7b2fff,100:0d0d1a&height=120&section=footer&animation=twinkling"/>
 </div>
