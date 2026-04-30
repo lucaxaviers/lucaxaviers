@@ -1,14 +1,14 @@
-# Lucas Xavier
-
-Estudante de Engenharia de Software 
+<h1 align="center">Lucas Xavier</h1>
+<p align="center">Estudante de Engenharia de Software</p>
 
 ---
 
 ### Sobre
 
-🎓 Estudante de **Engenharia de Software**  
-👨🏼‍🎓 Formado em Técnico em Informática  
-📚 Sempre aprendendo novas tecnologias
+🎓 Estudante de **Engenharia de Software** na **PUC-Campinas** — cursando o **3° semestre**
+👨🏼‍🎓 Formado em **Técnico em Informática**
+💻 Tecnologia, desenvolvimento de software e boas práticas de código
+🚀 Sempre explorando novas ferramentas, frameworks e conceitos para evoluir como dev
 
 ---
 
@@ -27,6 +27,15 @@ Estudante de Engenharia de Software
 
 ---
 
+### Curiosidades
+
+- 🧠 Fascinado por **lógica de programação** e resolução de problemas
+- 🌐 Interesse em **desenvolvimento web** fullstack e **engenharia de software**
+- 🔧 Gosto de entender como as coisas funcionam por baixo dos panos
+- 🎯 Foco atual: aprofundar em **TypeScript**, **React** e boas práticas de **Clean Code**
+
+---
+
 ### 🌐 Contato
 
 <div align="center">
@@ -39,4 +48,10 @@ Estudante de Engenharia de Software
 <a href="https://github.com/lucaxaviers">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucaxaviers&color=0A66C2&style=flat-square&label=visitantes+no+perfil" />
 </div>
