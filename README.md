@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#7b2fff,100:7b2fff&height=200&section=header&text=Lucas%20Xavier&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18&animation=twinkling" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7b2fff&height=200&section=header&text=Lucas%20Xavier&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -12,7 +10,9 @@
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</div>
 
 ```yaml
 # lucas_xavier.config.yml
@@ -39,30 +39,12 @@ traits:
 status: "Building the future, one commit at a time 🚀"
 ```
 
-<br clear="right"/>
-
 ---
 
 ### ⚡ Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,php,python,mysql,cpp,c&theme=dark&perline=10" />
-
-</div>
-
----
-
-### 🧠 Skills em progresso
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-███████████░░-00F7FF?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-██████████░░░-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-█████████░░░░-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-████████░░░░░-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-████████░░░░░-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 </div>
 
 ---
