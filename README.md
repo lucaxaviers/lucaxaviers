@@ -32,8 +32,8 @@ Apaixonado por tecnologia e resolução de problemas. Atualmente focado em **Des
 
 ## 📈 Estatísticas
 <p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=tokyonight" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=lucaxaviers&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🐍 Contribuições
