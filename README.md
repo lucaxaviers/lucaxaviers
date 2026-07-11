@@ -1,55 +1,68 @@
 <h1 align="center">Lucas Rodrigues Xavier</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software na PUC-Campinas | Desenvolvedor Web & Mobile
+  <b>Engenharia de Software (PUC-Campinas) | Full-Stack & Mobile Developer</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/lucas-rodrigues-xavier-ti">LinkedIn</a> | 
-  <a href="https://lucaxaviers.github.io">Portfólio Web</a> | 
-  <a href="https://imoveislucasxavier.com.br">Portfolio Imobiliário</a>
+  <a href="https://linkedin.com/in/lucas-rodrigues-xavier-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://lucaxaviers.github.io/portfolio-lucas-xavier/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Web"></a>
+  <a href="mailto:lucas.rxavier@outlook.com"><img src="https://img.shields.io/badge/-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato"></a>
 </p>
 
----
+<br/>
 
 ## 🚀 Sobre Mim
-Apaixonado por tecnologia e resolução de problemas. Atualmente focado em **Desenvolvimento Web e Mobile**, cursando o 3º semestre de Engenharia de Software na PUC-Campinas. Tenho facilidade em aprender novas tecnologias e busco aplicar meus conhecimentos técnicos em projetos práticos e funcionais.
 
-* 🎓 **Formação:** Engenharia de Software (PUC-Campinas) | Técnico em Informática e Logística (Bento Quirino).
-* 💼 **Interesse:** Oportunidades de estágio em Desenvolvimento (Web/Mobile), Infraestrutura ou Suporte Técnico.
+Desenvolvedor apaixonado por arquiteturas de alta performance e engenharia de software aplicada. Atualmente no **3º semestre de Engenharia de Software na PUC-Campinas**, atuo no design e implementação de soluções completas — do backend em Node.js/Python à construção de interfaces nativas (Mobile) e Web (React/Vanilla) de extrema fluidez.
 
-## 🛠 Tecnologias
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,php,python,mysql,cpp,c,dart,flutter,firebase&theme=dark" />
-</p>
-
-## 📊 Projetos em Destaque
-* **[Portfólio Pessoal](https://lucaxaviers.github.io):** Website pessoal e interativo desenvolvido com foco em performance mobile, animações fluidas, exibição de competências técnicas e suporte nativo a Dark/Light Mode.
-* **[Site Imóveis Lucas Xavier](https://imoveislucasxavier.com.br):** Catálogo profissional de propriedades em produção, com design responsivo, listagem dinâmica e arquitetura voltada para conversão e usabilidade.
-* **Projetos Acadêmicos:** Desenvolvimento de aplicações utilizando Flutter, Firebase e stacks de engenharia, focando em lógica computacional, UX/UI e arquitetura de sistemas.
+Meu ecossistema de desenvolvimento opera no **"Modo A"**:
+- **Clean Code & Arquitetura:** Estruturas escaláveis e manutenção sustentável.
+- **Performance Web & Mobile:** Otimização cirúrgica de renderização e carregamento (WebP, minificação, Mobile-First).
+- **UX/UI Premium:** Interfaces de altíssima conversão e design system consistente.
 
 ---
 
-## 📈 Estatísticas
+## 🛠 Stack Tecnológica
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=lucaxaviers&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,php,python,mysql,cpp,c,dart,flutter,firebase,git,github,vscode&theme=dark&perline=10" />
 </p>
 
-## 🐍 Contribuições
+---
+
+## 📊 Projetos em Destaque
+
+| 🏆 Projeto | 🎯 Descrição & Arquitetura |
+| :--- | :--- |
+| **[Portfólio Premium](https://lucaxaviers.github.io/portfolio-lucas-xavier/)** | Website imersivo desenvolvido em arquitetura "Vanilla", focado em velocidade extrema, animações nativas e conversão (Lighthouse 100). |
+| **[ReaisWeb Landing Page](https://github.com/lucaxaviers/reaisweb)** | Página corporativa de alta performance, utilizando paletas HSL geradas proceduralmente e estruturas otimizadas. |
+| **[NotaDez (PI II)](https://github.com/lucaxaviers/PI_II_ES_TIME_11)** | Sistema web Full-Stack de gestão acadêmica construído em Node.js, TypeScript e MySQL, com JWT Auth. |
+| **[MesclaInvest (PI III)](https://github.com/lucaxaviers/ES-PI3-2026-T1-G25)** | Aplicativo mobile (Flutter + Firebase) para negociação de tokens de startups. Arquitetura serverless avançada. |
+
+> *Explore a aba de [Repositórios](https://github.com/lucaxaviers?tab=repositories) para ver projetos acadêmicos e códigos-fonte padronizados na íntegra.*
+
+---
+
+## 📈 Métricas de Engenharia
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucaxaviers/lucaxaviers/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://github.com/lucaxaviers">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/lucaxaviers">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-languages/?username=lucaxaviers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
 
-## 📬 Contato
+<br/>
+
+## 🐍 Commits & Contribuições
+
 <p align="center">
-  <a href="https://linkedin.com/in/lucas-rodrigues-xavier-ti" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/lucaxaviers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.instagram.com/lucaxaviers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaxaviers/lucaxaviers/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaxaviers/lucaxaviers/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucaxaviers/lucaxaviers/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
