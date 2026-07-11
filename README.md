@@ -35,7 +35,6 @@ Meu ecossistema de desenvolvimento opera no **"Modo A"**:
 
 | 🏆 Projeto | 🎯 Descrição & Arquitetura |
 | :--- | :--- |
-| **[Portfólio Premium](https://portfolio-lucas-xavier.vercel.app/)** | Website imersivo desenvolvido em arquitetura "Vanilla", focado em velocidade extrema, animações nativas e conversão (Lighthouse 100). |
 | **[ReaisWeb Landing Page](https://reaisweb.vercel.app/)** | Página corporativa de alta performance, utilizando paletas HSL geradas proceduralmente e estruturas otimizadas. |
 | **[Imóveis Lucas Xavier](https://imoveislucasxavier.com.br/)** | Catálogo imobiliário premium em Next.js e Firebase. |
 | **[NotaDez (PI II)](https://github.com/lucaxaviers/PI_II_ES_TIME_11)** | Sistema web Full-Stack de gestão acadêmica construído em Node.js, TypeScript e MySQL, com JWT Auth. |
