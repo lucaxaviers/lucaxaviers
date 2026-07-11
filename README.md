@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/lucas-rodrigues-xavier-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://lucaxaviers.github.io/portfolio-lucas-xavier/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Web"></a>
+  <a href="https://portfolio-lucas-xavier.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Web"></a>
   <a href="mailto:lucas.rxavier@outlook.com"><img src="https://img.shields.io/badge/-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato"></a>
 </p>
 
@@ -35,8 +35,9 @@ Meu ecossistema de desenvolvimento opera no **"Modo A"**:
 
 | 🏆 Projeto | 🎯 Descrição & Arquitetura |
 | :--- | :--- |
-| **[Portfólio Premium](https://lucaxaviers.github.io/portfolio-lucas-xavier/)** | Website imersivo desenvolvido em arquitetura "Vanilla", focado em velocidade extrema, animações nativas e conversão (Lighthouse 100). |
-| **[ReaisWeb Landing Page](https://github.com/lucaxaviers/reaisweb)** | Página corporativa de alta performance, utilizando paletas HSL geradas proceduralmente e estruturas otimizadas. |
+| **[Portfólio Premium](https://portfolio-lucas-xavier.vercel.app/)** | Website imersivo desenvolvido em arquitetura "Vanilla", focado em velocidade extrema, animações nativas e conversão (Lighthouse 100). |
+| **[ReaisWeb Landing Page](https://reaisweb.vercel.app/)** | Página corporativa de alta performance, utilizando paletas HSL geradas proceduralmente e estruturas otimizadas. |
+| **[Imóveis Lucas Xavier](https://imoveislucasxavier.com.br/)** | Catálogo imobiliário premium em Next.js e Firebase. |
 | **[NotaDez (PI II)](https://github.com/lucaxaviers/PI_II_ES_TIME_11)** | Sistema web Full-Stack de gestão acadêmica construído em Node.js, TypeScript e MySQL, com JWT Auth. |
 | **[MesclaInvest (PI III)](https://github.com/lucaxaviers/ES-PI3-2026-T1-G25)** | Aplicativo mobile (Flutter + Firebase) para negociação de tokens de startups. Arquitetura serverless avançada. |
 
