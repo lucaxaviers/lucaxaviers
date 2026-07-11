@@ -47,13 +47,13 @@ Meu ecossistema de desenvolvimento opera no **"Modo A"**:
 ## 📈 Métricas de Engenharia
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaxaviers&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaxaviers&theme=dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=tokyonight" alt="Top Linguagens por Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaxaviers&theme=tokyonight" alt="Top Linguagens por Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=dark" alt="Top Linguagens por Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaxaviers&theme=dark" alt="Top Linguagens por Commit" />
 </p>
 
 <br/>
