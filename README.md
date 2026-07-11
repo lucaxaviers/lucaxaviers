@@ -47,12 +47,8 @@ Meu ecossistema de desenvolvimento opera no **"Modo A"**:
 ## 📈 Métricas de Engenharia
 
 <p align="center">
-  <a href="https://github.com/lucaxaviers">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/lucaxaviers">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=lucaxaviers&layout=compact&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=lucaxaviers&layout=compact&theme=tokyonight" alt="Top Linguagens" />
 </p>
 
 <br/>
