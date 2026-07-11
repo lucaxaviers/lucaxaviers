@@ -48,10 +48,10 @@ Meu ecossistema de desenvolvimento opera no **"Modo A"**:
 
 <p align="center">
   <a href="https://github.com/lucaxaviers">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/lucaxaviers">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-languages/?username=lucaxaviers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=lucaxaviers&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
