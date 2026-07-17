@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/lucas-rodrigues-xavier-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://portfolio-lucas-xavier.vercel.app/(https://lucaxaviers.github.io/)" target="_blank"><img src="https://img.shields.io/badge/-Portfólio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Web"></a>
+  <a href="https://lucaxaviers.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Web"></a>
   <a href="mailto:lucas.rxavier@outlook.com"><img src="https://img.shields.io/badge/-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato"></a>
 </p>
 
