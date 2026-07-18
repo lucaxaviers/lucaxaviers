@@ -1,32 +1,44 @@
 <h1 align="center">Lucas Rodrigues Xavier</h1>
-
 <p align="center">
   <b>Engenharia de Software (PUC-Campinas) | Full-Stack & Mobile Developer</b>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/lucas-rodrigues-xavier-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://lucaxaviers.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio_Web-0a0a0b?style=for-the-badge&logo=github&logoColor=FF5C1A" alt="Portfólio Web"></a>
   <a href="mailto:lucas.rxavier@outlook.com"><img src="https://img.shields.io/badge/-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato"></a>
 </p>
-
 <br/>
 
-## 🚀 Sobre Mim
+## 🎓 Formação
 
-Desenvolvedor apaixonado por arquiteturas de alta performance e engenharia de software aplicada. Atualmente no **3º semestre de Engenharia de Software na PUC-Campinas**, atuo no design e implementação de soluções completas — do backend em Node.js/Python à construção de interfaces nativas (Mobile) e Web (React/Vanilla) de extrema fluidez.
+**Engenharia de Software** — PUC-Campinas
+`2025 — 2028` · Em andamento
 
-Meu ecossistema de desenvolvimento opera no **"Modo A"**:
-- **Clean Code & Arquitetura:** Estruturas escaláveis e manutenção sustentável.
-- **Performance Web & Mobile:** Otimização cirúrgica de renderização e carregamento (WebP, minificação, Mobile-First).
-- **UX/UI Premium:** Interfaces de altíssima conversão e design system consistente.
+**Técnico em Informática** — Colégio Técnico Bento Quirino
+`2022 — 2024` · Concluído
+
+**Técnico em Logística** — Colégio Técnico Bento Quirino
+`2022 — 2024` · Concluído
+
+---
+
+## 📜 Certificações Técnicas
+
+| Certificação | Instituição | Status |
+| :--- | :--- | :--- |
+| Power BI & Análise de Dados | Microlins | ✅ Concluído |
+| Excel 2021 Completo & Avançado | Microlins | ✅ Concluído |
+| Redes Sociais, Aplicativos & Produtividade | Microlins | ✅ Concluído |
+| Montagem e Manutenção de PCs | Microlins | ✅ Concluído |
+| Marketing Digital I e II | Microlins | ✅ Concluído |
+| Inglês — Básico | CNESIS | 🔄 Em Andamento |
 
 ---
 
 ## 🛠 Stack Tecnológica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,php,python,mysql,cpp,c,dart,flutter,firebase,git,github,vscode&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,php,python,mysql,cpp,c,dart,flutter,firebase&theme=dark&perline=10" />
 </p>
 
 ---
@@ -49,13 +61,11 @@ Meu ecossistema de desenvolvimento opera no **"Modo A"**:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaxaviers&theme=dark" alt="Profile Details" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=dark" alt="Top Linguagens por Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaxaviers&theme=dark" alt="Top Linguagens por Commit" />
 </p>
-
 <br/>
 
 ## 🐍 Commits & Contribuições
