@@ -10,7 +10,6 @@
 <br/>
 
 ## 🎓 Formação
-
 **Engenharia de Software** — PUC-Campinas
 `2025 — 2028` · Em andamento
 
@@ -23,7 +22,6 @@
 ---
 
 ## 📜 Certificações Técnicas
-
 | Certificação | Instituição | Status |
 | :--- | :--- | :--- |
 | Power BI & Análise de Dados | Microlins | ✅ Concluído |
@@ -36,7 +34,6 @@
 ---
 
 ## 🛠 Stack Tecnológica
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,php,python,mysql,cpp,c,dart,flutter,firebase&theme=dark&perline=10" />
 </p>
@@ -44,31 +41,24 @@
 ---
 
 ## 📊 Projetos em Destaque
-
 | 🏆 Projeto | 🎯 Descrição & Arquitetura |
 | :--- | :--- |
 | **[ReaisWeb Landing Page](https://reaisweb.vercel.app/)** | Página corporativa de alta performance, utilizando paletas HSL geradas proceduralmente e estruturas otimizadas. |
 | **[Imóveis Lucas Xavier](https://imoveislucasxavier.com.br/)** | Catálogo imobiliário premium em Next.js e Firebase. |
 | **[NotaDez (PI II)](https://github.com/lucaxaviers/PI_II_ES_TIME_11)** | Sistema web Full-Stack de gestão acadêmica construído em Node.js, TypeScript e MySQL, com JWT Auth. |
 | **[MesclaInvest (PI III)](https://github.com/lucaxaviers/ES-PI3-2026-T1-G25)** | Aplicativo mobile (Flutter + Firebase) para negociação de tokens de startups. Arquitetura serverless avançada. |
-
 > *Explore a aba de [Repositórios](https://github.com/lucaxaviers?tab=repositories) para ver projetos acadêmicos e códigos-fonte padronizados na íntegra.*
 
 ---
 
 ## 📈 Métricas de Engenharia
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark&hide_border=true" alt="Top Linguagens" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaxaviers&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark&hide_border=true" alt="Top Linguagens" />
 </p>
 <br/>
 
 ## 🐍 Commits & Contribuições
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaxaviers/lucaxaviers/output/github-contribution-grid-snake-dark.svg">
