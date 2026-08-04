@@ -59,12 +59,11 @@
 ## 📈 Métricas de Engenharia
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaxaviers&theme=dark" alt="Profile Details" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark&hide_border=true" alt="Top Linguagens" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaxaviers&theme=dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaxaviers&theme=dark" alt="Top Linguagens por Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaxaviers&theme=dark" alt="Top Linguagens por Commit" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaxaviers&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <br/>
 
