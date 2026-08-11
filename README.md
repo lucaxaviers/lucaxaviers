@@ -22,8 +22,7 @@
 ---
 
 ## 📜 Certificações Técnicas
-
-<p align="center">
+  
 | Certificação | Status |
 | :--- | :--- |
 | Power BI & Análise de Dados | ✅ Concluído |
@@ -32,7 +31,6 @@
 | Montagem e Manutenção de PCs | ✅ Concluído |
 | Marketing Digital I e II | ✅ Concluído |
 | Inglês — Básico | 🔄 Em Andamento |
-</p>
 
 ---
 
