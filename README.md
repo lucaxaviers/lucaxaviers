@@ -22,14 +22,17 @@
 ---
 
 ## 📜 Certificações Técnicas
-| Certificação | Instituição | Status |
-| :--- | :--- | :--- |
-| Power BI & Análise de Dados | Microlins | ✅ Concluído |
-| Excel 2021 Completo & Avançado | Microlins | ✅ Concluído |
-| Redes Sociais, Aplicativos & Produtividade | Microlins | ✅ Concluído |
-| Montagem e Manutenção de PCs | Microlins | ✅ Concluído |
-| Marketing Digital I e II | Microlins | ✅ Concluído |
-| Inglês — Básico | CNESIS | 🔄 Em Andamento |
+
+<p align="center">
+| Certificação | Status |
+| :--- | :--- |
+| Power BI & Análise de Dados | ✅ Concluído |
+| Excel 2021 Completo & Avançado | ✅ Concluído |
+| Redes Sociais, Aplicativos & Produtividade | ✅ Concluído |
+| Montagem e Manutenção de PCs | ✅ Concluído |
+| Marketing Digital I e II | ✅ Concluído |
+| Inglês — Básico | 🔄 Em Andamento |
+</p>
 
 ---
 
