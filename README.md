@@ -24,7 +24,9 @@
 
 ## 👋 Sobre Mim
 
-Sou o Lucas, formado em Técnico em TI e cursando Engenharia de Software na PUC-Campinas.
+<p align="center">
+Sou o Lucas, formado em Técnico em Informática e Logística pelo Colégio Técnico Bento Quirino, cursando Engenharia de Software na PUC-Campinas. Desenvolvo projetos web e mobile com JavaScript, TypeScript, Python, C, HTML, CSS, Dart e Flutter.
+</p>
 
 ---
 
