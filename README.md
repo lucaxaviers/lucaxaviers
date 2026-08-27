@@ -1,88 +1,121 @@
-# lucaxaviers.github.io
+<h1 align="center">Lucas Rodrigues Xavier</h1>
 
-Portfólio pessoal de **Lucas Xavier** — estudante de Engenharia de Software na PUC-Campinas e desenvolvedor Full Stack.
+<p align="center">
+  Estudante de <b>Engenharia de Software</b> na PUC-Campinas<br/>
+  Técnico em Informática e Logística pelo Colégio Técnico Bento Quirino
+</p>
 
-🔗 **Site no ar:** [lucaxaviers.github.io](https://lucaxaviers.github.io/)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![No Framework](https://img.shields.io/badge/framework-nenhum-ff5a1f?style=flat-square)
-![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-222222?style=flat-square&logo=github)
-
----
-
-## Sobre o projeto
-
-Site de página única (one-page) que reúne stack tecnológica, formação acadêmica, certificações técnicas, projetos em destaque e contato. Todo o projeto vive em um único arquivo [`index.html`](index.html) — sem build step, sem dependências de pacote, sem framework. HTML, CSS e JavaScript puros.
-
-## Identidade visual
-
-Design limpo e direto, com um leve toque de movimento (glow de fundo animado e transições suaves), sem excessos:
-
-| Elemento | Escolha |
-|---|---|
-| Paleta | Preto quase-puro (`#0a0a0b`) + laranja sinal (`#ff5a1f`) como accent, com contraparte clara ("modo dia") |
-| Tipografia | **Unbounded** (títulos e UI) · **Manrope** (texto corrido) |
-
-## Funcionalidades
-
-- **Tema claro/escuro** com preferência salva em `localStorage`
-- Glow de fundo com animação leve
-- Foto do hero sempre visível, sem efeitos de revelar
-- Hover sutil nos cards de projeto
-- Layout responsivo (menu simplificado em telas pequenas)
-
-## Tecnologias utilizadas
-
-- HTML5 semântico
-- CSS3 (custom properties, Grid, Flexbox)
-- JavaScript vanilla (sem build tools, sem dependências)
-- [Google Fonts](https://fonts.google.com/) — Unbounded, Manrope
-
-## SEO
-
-- Meta description e `theme-color`
-- `link rel="canonical"`
-- `preconnect` para a origem das fontes
-
-## Estrutura do projeto
-
-```
-.
-├── index.html   # site completo — markup, estilos e scripts
-└── README.md
-```
-
-## Rodando localmente
-
-Não há build nem dependências — basta servir o arquivo estaticamente:
-
-```bash
-# Python
-python -m http.server 8000
-
-# ou Node
-npx serve .
-```
-
-Depois acesse `http://localhost:8000`.
-
-## Conteúdo
-
-- **Stack** — TypeScript, JavaScript, React, Next.js, HTML5, CSS3, PHP, Python, MySQL, C++, C, Dart, Flutter, Firebase, Node.js, Supabase, Git, GitHub, Figma, Vercel, VS Code
-- **Formação** — Engenharia de Software (PUC-Campinas, 2025–2028), Técnico em Informática e Técnico em Logística (Colégio Técnico Bento Quirino)
-- **Certificações** — Power BI & Análise de Dados, Excel 2021, Redes Sociais/Aplicativos/Produtividade, Montagem e Manutenção de PCs, Marketing Digital I e II (Microlins) e Inglês (CNESIS, em andamento)
-- **Projetos** — [Imóveis Lucas Xavier](https://imoveislucasxavier.com.br) (site imobiliário em produção), [MesclaInvest](https://github.com/lucaxaviers/ES-PI3-2026-T1-G25) (app mobile com Flutter + Firebase), [NotaDez](https://github.com/lucaxaviers/PI_II_ES_TIME_11) (gestão acadêmica com Node.js/TypeScript/MySQL) e [Portfólio Pessoal](https://lucaxaviers.github.io/)
-
-## Contato
-
-- [E-mail](mailto:lucas.xavier.pln@gmail.com)
-- [LinkedIn](https://linkedin.com/in/lucas-rodrigues-xavier-ti)
-- [GitHub](https://github.com/lucaxaviers)
-- [Instagram](https://instagram.com/lucaxaviers)
-- [WhatsApp](https://wa.me/5519981400709)
+<p align="center">
+  <a href="https://linkedin.com/in/lucas-rodrigues-xavier-ti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://lucaxaviers.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-FF5A1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.instagram.com/lucaxaviers" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:lucas.rxavier@outlook.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
 
 ---
 
-© 2026 Lucas Rodrigues Xavier — Campinas / Paulínia, SP
+## 👋 Sobre Mim
+
+<p align="center">
+Sou o Lucas, formado em Técnico em Informática e Logística pelo Colégio Técnico Bento Quirino, cursando Engenharia de Software na PUC-Campinas. Desenvolvo projetos web e mobile com JavaScript, TypeScript, Python, C, HTML, CSS, Dart e Flutter.
+</p>
+
+---
+
+## 🎓 Formação
+
+| Curso | Instituição | Período |
+| :--- | :--- | :---: |
+| Engenharia de Software | PUC-Campinas | 2025 — 2028 (cursando) |
+| Técnico em Informática | Colégio Técnico Bento Quirino | 2022 — 2024 |
+| Técnico em Logística | Colégio Técnico Bento Quirino | 2022 — 2024 |
+
+---
+
+## 🛠 Stack Tecnológica
+
+**Linguagens**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,dart,html,css,php&theme=dark&perline=10" />
+</p>
+
+**Frameworks & Bibliotecas**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs&theme=dark&perline=10" />
+</p>
+
+**Banco de Dados & Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark&perline=10" />
+</p>
+
+**Ferramentas**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark&perline=10" />
+</p>
+
+---
+
+## 🏆 Projetos em Destaque
+
+| Projeto | O que é | Link |
+| :--- | :--- | :---: |
+| **Imóveis Lucas Xavier** | Site imobiliário profissional feito com Next.js e Firebase | [Acessar](https://imoveislucasxavier.com.br/) |
+| **MesclaInvest (PI III)** | App mobile de investimentos simulados em startups, feito em Flutter + Firebase | [Repositório](https://github.com/lucaxaviers/ES-PI3-2026-T1-G25) |
+| **NotaDez (PI II)** | Sistema de gestão acadêmica com Node.js, TypeScript e MySQL | [Repositório](https://github.com/lucaxaviers/PI_II_ES_TIME_11) |
+| **Portfólio Pessoal** | Meu site pessoal feito do zero com HTML, CSS e JS | [Acessar](https://lucaxaviers.github.io/) |
+
+> Veja todos os projetos na aba [Repositórios](https://github.com/lucaxaviers?tab=repositories).
+
+---
+
+## 📚 Semestres da Faculdade
+
+| Semestre | Foco | Repositório |
+| :---: | :--- | :---: |
+| 1º | Algoritmos em Python, SQL e Lógica de Programação... | [Ver](https://github.com/lucaxaviers/Primeiro-Semestre-ENG-de-Software) |
+| 2º | Estrutura de Dados em C, Banco de Dados e Engenharia de Requisitos... | [Ver](https://github.com/lucaxaviers/Segundo-Semestre-ENG-de-Software) |
+| 3º | Desenvolvimento Mobile com Dart e Flutter... | [Ver](https://github.com/lucaxaviers/Terceiro-Semestre-ENG-de-Software) |
+| 4º | POO, Arquitetura de Sistemas e Qualidade de Software... | [Ver](https://github.com/lucaxaviers/Quarto-Semestre-ENG-de-Software) |
+
+---
+
+## 📜 Certificações
+
+| Certificação | Status |
+| :--- | :---: |
+| Power BI & Análise de Dados | ✅ |
+| Excel 2021 Completo & Avançado | ✅ |
+| Montagem e Manutenção de PCs | ✅ |
+| Marketing Digital I e II | ✅ |
+| Redes Sociais, Aplicativos & Produtividade | ✅ |
+| Inglês | 🔄 Em andamento |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaxaviers&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaxaviers&layout=compact&theme=dark&hide_border=true" alt="Top Linguagens" />
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaxaviers/lucaxaviers/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaxaviers/lucaxaviers/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/lucaxaviers/lucaxaviers/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
