@@ -12,6 +12,9 @@
   <a href="https://lucaxaviers.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-FF5A1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
   </a>
+  <a href="https://www.instagram.com/lucaxaviers" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="mailto:lucas.rxavier@outlook.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
@@ -21,7 +24,7 @@
 
 ## 👋 Sobre Mim
 
-Sou o Lucas, moro em Paulínia/SP. Curso **Engenharia de Software** na PUC-Campinas e trabalho desenvolvendo sites e sistemas web para clientes.
+Sou o Lucas, formado em Técnico em TI e cursando Engenharia de Software na PUC-Campinas.
 
 ---
 
@@ -71,10 +74,10 @@ Sou o Lucas, moro em Paulínia/SP. Curso **Engenharia de Software** na PUC-Campi
 
 | Semestre | Foco | Repositório |
 | :---: | :--- | :---: |
-| 1º | Algoritmos em Python, SQL e Lógica de Programação | [Ver](https://github.com/lucaxaviers/Primeiro-Semestre-ENG-de-Software) |
-| 2º | Estrutura de Dados em C, Banco de Dados e Engenharia de Requisitos | [Ver](https://github.com/lucaxaviers/Segundo-Semestre-ENG-de-Software) |
-| 3º | Desenvolvimento Mobile com Dart e Flutter | [Ver](https://github.com/lucaxaviers/Terceiro-Semestre-ENG-de-Software) |
-| 4º | POO, Arquitetura de Sistemas e Qualidade de Software | [Ver](https://github.com/lucaxaviers/Quarto-Semestre-ENG-de-Software) |
+| 1º | Algoritmos em Python, SQL e Lógica de Programação... | [Ver](https://github.com/lucaxaviers/Primeiro-Semestre-ENG-de-Software) |
+| 2º | Estrutura de Dados em C, Banco de Dados e Engenharia de Requisitos... | [Ver](https://github.com/lucaxaviers/Segundo-Semestre-ENG-de-Software) |
+| 3º | Desenvolvimento Mobile com Dart e Flutter... | [Ver](https://github.com/lucaxaviers/Terceiro-Semestre-ENG-de-Software) |
+| 4º | POO, Arquitetura de Sistemas e Qualidade de Software... | [Ver](https://github.com/lucaxaviers/Quarto-Semestre-ENG-de-Software) |
 
 ---
 
