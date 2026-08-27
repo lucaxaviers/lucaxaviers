@@ -21,9 +21,7 @@
 
 ## 👋 Sobre Mim
 
-Sou o Lucas, tenho 20 anos e moro em Paulínia/SP. Atualmente curso **Engenharia de Software** na PUC-Campinas e trabalho desenvolvendo sites e sistemas web para clientes reais.
-
-Gosto de colocar a mão na massa — meu foco é pegar uma ideia e transformar em algo funcional, bonito e que resolva o problema de verdade.
+Sou o Lucas, moro em Paulínia/SP. Curso **Engenharia de Software** na PUC-Campinas e trabalho desenvolvendo sites e sistemas web para clientes.
 
 ---
 
