@@ -39,8 +39,19 @@ Gosto de colocar a mão na massa — meu foco é pegar uma ideia e transformar e
 
 ## 🛠 O que eu uso no dia a dia
 
+**Linguagens**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,python,dart,flutter,nodejs,firebase,mysql,php,c,cpp,git,github,vscode&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css,c,cpp,php&theme=dark&perline=10" />
+</p>
+
+**Frameworks & Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,nodejs,firebase,supabase,mysql&theme=dark&perline=10" />
+</p>
+
+**Ferramentas**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark&perline=10" />
 </p>
 
 ---
