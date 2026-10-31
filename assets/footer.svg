@@ -108,11 +108,14 @@
           <text class="pill-text" x="44" y="26">lucas.xavier.pln@gmail.com</text>
         </g>
 
-        <!-- Pill 2: Portfólio -->
+        <!-- Pill 2: Portfólio (Globe icon, sem ponto azul) -->
         <g transform="translate(254, 0)">
           <rect width="216" height="42" rx="21" fill="#121724" stroke="#222d42" stroke-width="1.2"/>
-          <circle cx="22" cy="21" r="4" fill="#0071e3"/>
-          <text class="pill-text" x="38" y="26">lucaxaviers.github.io</text>
+          <g transform="translate(16, 13)" stroke="#0071e3" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="8" cy="8" r="7"/>
+            <path d="M1 8h14M8 1a11 11 0 0 1 0 14 11 11 0 0 1 0-14z"/>
+          </g>
+          <text class="pill-text" x="42" y="26">lucaxaviers.github.io</text>
         </g>
       </g>
     </g>
