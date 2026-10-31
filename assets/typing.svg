@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="46" viewBox="0 0 960 46" role="img" aria-label="Estudante de Engenharia de Software na PUC-Campinas · Técnico em Informática">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="46" viewBox="0 0 960 46" role="img" aria-label="Estudante de Engenharia de Software · Técnico em Informática">
   <defs>
     <style>
       .t {
@@ -14,20 +14,20 @@
 
       /* Animates ONCE and stays completely visible and fixed forever */
       .reveal-box {
-        animation: typeOnce 2.2s cubic-bezier(0.1, 0.7, 0.1, 1) forwards;
+        animation: typeOnce 2s cubic-bezier(0.1, 0.7, 0.1, 1) forwards;
       }
       @keyframes typeOnce {
         0%   { width: 0px; }
-        100% { width: 740px; }
+        100% { width: 620px; }
       }
 
       /* Cursor moves with typing then blinks in place at the end */
       .cur-wrap {
-        animation: cursorMove 2.2s cubic-bezier(0.1, 0.7, 0.1, 1) forwards;
+        animation: cursorMove 2s cubic-bezier(0.1, 0.7, 0.1, 1) forwards;
       }
       @keyframes cursorMove {
-        0%   { transform: translateX(110px); }
-        100% { transform: translateX(846px); }
+        0%   { transform: translateX(170px); }
+        100% { transform: translateX(788px); }
       }
 
       .cursor-blink {
@@ -40,13 +40,13 @@
     </style>
 
     <clipPath id="clipType">
-      <rect class="reveal-box" x="115" y="0" width="0" height="46"/>
+      <rect class="reveal-box" x="175" y="0" width="0" height="46"/>
     </clipPath>
   </defs>
 
   <!-- Complete sentence revealed once, stays fixed -->
   <g clip-path="url(#clipType)">
-    <text class="t" x="115" y="28">Estudante de <tspan class="hl">Engenharia de Software</tspan> na PUC-Campinas · Técnico em Informática</text>
+    <text class="t" x="175" y="28">Estudante de <tspan class="hl">Engenharia de Software</tspan> · Técnico em Informática</text>
   </g>
 
   <!-- Cursor at the end -->

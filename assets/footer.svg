@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Lucas Xavier - Footer Oficial">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="175" viewBox="0 0 1200 175" role="img" aria-label="Lucas Xavier - Footer">
   <defs>
     <!-- Background Gradient (Same as Header: Midnight Navy / Carbon) -->
     <linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="1">
@@ -7,34 +7,34 @@
       <stop offset="100%" stop-color="#0e1526"/>
     </linearGradient>
 
-    <!-- Subtle Radial Glow in Apple Blue (Same as Header) -->
+    <!-- Subtle Radial Glow in Apple Blue -->
     <radialGradient id="footerGlow" cx="80%" cy="30%" r="60%">
       <stop offset="0%" stop-color="#0071e3" stop-opacity="0.25"/>
       <stop offset="60%" stop-color="#0071e3" stop-opacity="0.05"/>
       <stop offset="100%" stop-color="#0071e3" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Dot Grid Pattern (Same as Header) -->
+    <!-- Dot Grid Pattern -->
     <pattern id="footerGrid" width="30" height="30" patternUnits="userSpaceOnUse">
       <circle cx="15" cy="15" r="1" fill="#ffffff" fill-opacity="0.045"/>
     </pattern>
 
-    <!-- Subtle Wave Gradients (Deep and elegant, matching reference image) -->
+    <!-- Subtle Wave Gradients -->
     <linearGradient id="waveBack" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#071938" stop-opacity="0.5"/>
-      <stop offset="50%" stop-color="#0a295c" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#05142e" stop-opacity="0.5"/>
+      <stop offset="0%" stop-color="#071938" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#0a295c" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#05142e" stop-opacity="0.45"/>
     </linearGradient>
 
     <linearGradient id="waveFront" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00478f" stop-opacity="0.5"/>
-      <stop offset="50%" stop-color="#0066cc" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#003d7a" stop-opacity="0.5"/>
+      <stop offset="0%" stop-color="#00478f" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#0066cc" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#003d7a" stop-opacity="0.45"/>
     </linearGradient>
 
-    <!-- Clip Path for Rounded Canvas (Same rx=28 as Header) -->
+    <!-- Clip Path for Rounded Canvas -->
     <clipPath id="footerClip">
-      <rect width="1200" height="210" rx="28"/>
+      <rect width="1200" height="175" rx="28"/>
     </clipPath>
 
     <style>
@@ -49,14 +49,14 @@
       .name-white {
         font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, sans-serif;
         font-weight: 900;
-        font-size: 36px;
+        font-size: 38px;
         letter-spacing: -1px;
         fill: #ffffff;
       }
       .name-blue {
         font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, sans-serif;
         font-weight: 900;
-        font-size: 36px;
+        font-size: 38px;
         letter-spacing: -1px;
         fill: #0071e3;
       }
@@ -71,64 +71,53 @@
         font-weight: 600;
         fill: #cbd5e1;
       }
-      .copyright {
-        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif;
-        font-size: 12px;
-        fill: #64748b;
-      }
     </style>
   </defs>
 
   <g clip-path="url(#footerClip)">
-    <!-- Base Background Layers (Identical to Header) -->
-    <rect width="1200" height="210" fill="url(#footerBg)"/>
-    <rect width="1200" height="210" fill="url(#footerGrid)"/>
-    <rect width="1200" height="210" fill="url(#footerGlow)"/>
+    <!-- Base Background Layers -->
+    <rect width="1200" height="175" fill="url(#footerBg)"/>
+    <rect width="1200" height="175" fill="url(#footerGrid)"/>
+    <rect width="1200" height="175" fill="url(#footerGlow)"/>
 
-    <!-- Subtle Organic Bottom Waves (Matching Reference) -->
-    <path d="M0,172 C340,152 760,192 1200,166 L1200,210 L0,210 Z" fill="url(#waveBack)"/>
-    <path d="M0,184 C380,166 720,200 1200,178 L1200,210 L0,210 Z" fill="url(#waveFront)"/>
+    <!-- Subtle Organic Bottom Waves -->
+    <path d="M0,135 C340,118 760,155 1200,130 L1200,175 L0,175 Z" fill="url(#waveBack)"/>
+    <path d="M0,146 C380,130 720,160 1200,142 L1200,175 L0,175 Z" fill="url(#waveFront)"/>
 
     <!-- Content Row -->
-    <g transform="translate(64, 38)">
-      <!-- Left: Identity (Twin to Header) -->
+    <g transform="translate(64, 40)">
+      <!-- Left: Identity (NO PUC-CAMPINAS, NO COPYRIGHT) -->
       <g>
-        <text class="eyebrow" x="0" y="0">ENGENHARIA DE SOFTWARE · PUC-CAMPINAS</text>
-        <text x="0" y="38">
+        <text class="eyebrow" x="0" y="0">ENGENHARIA DE SOFTWARE</text>
+        <text x="0" y="42">
           <tspan class="name-white">Lucas </tspan>
           <tspan class="name-blue">Xavier.</tspan>
         </text>
-        <text class="sub-text" x="0" y="64">Estudante de Engenharia de Software · Paulínia, SP</text>
+        <text class="sub-text" x="0" y="70">Paulínia, SP · Full-Stack &amp; Mobile</text>
       </g>
 
-      <!-- Right: Contact Pills (Matching Header Pills Style) -->
-      <g transform="translate(600, 16)">
+      <!-- Right: Contact Pills -->
+      <g transform="translate(600, 22)">
         <!-- Pill 1: Email -->
         <g transform="translate(0, 0)">
-          <rect width="240" height="40" rx="20" fill="#121724" stroke="#222d42" stroke-width="1.2"/>
-          <g transform="translate(18, 12)" stroke="#0071e3" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <rect width="240" height="42" rx="21" fill="#121724" stroke="#222d42" stroke-width="1.2"/>
+          <g transform="translate(18, 13)" stroke="#0071e3" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
             <rect x="1" y="2" width="14" height="12" rx="2"/>
             <polyline points="2 4 8 9 14 4"/>
           </g>
-          <text class="pill-text" x="44" y="25">lucas.xavier.pln@gmail.com</text>
+          <text class="pill-text" x="44" y="26">lucas.xavier.pln@gmail.com</text>
         </g>
 
         <!-- Pill 2: Portfólio -->
         <g transform="translate(254, 0)">
-          <rect width="216" height="40" rx="20" fill="#121724" stroke="#222d42" stroke-width="1.2"/>
-          <circle cx="22" cy="20" r="4" fill="#0071e3"/>
-          <text class="pill-text" x="38" y="25">lucaxaviers.github.io</text>
+          <rect width="216" height="42" rx="21" fill="#121724" stroke="#222d42" stroke-width="1.2"/>
+          <circle cx="22" cy="21" r="4" fill="#0071e3"/>
+          <text class="pill-text" x="38" y="26">lucaxaviers.github.io</text>
         </g>
       </g>
     </g>
 
-    <!-- Bottom Row: Subtle Divider & Copyright -->
-    <line x1="64" y1="152" x2="1136" y2="152" stroke="#1e293b" stroke-width="1"/>
-    <g transform="translate(64, 180)">
-      <text class="copyright" x="0" y="0">© 2026 Lucas Rodrigues Xavier · Todos os direitos reservados.</text>
-    </g>
-
-    <!-- Outer Canvas Glass Border (Same as Header) -->
-    <rect x="1" y="1" width="1198" height="208" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5"/>
+    <!-- Outer Canvas Glass Border (NO copyright line, NO extra dividing lines!) -->
+    <rect x="1" y="1" width="1198" height="173" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5"/>
   </g>
 </svg>
