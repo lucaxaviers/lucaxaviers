@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="16" viewBox="0 0 1200 16" role="img" aria-label="">
+  <defs>
+    <linearGradient id="blueBase" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0071e3" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0071e3" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0071e3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="laserGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0071e3" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#60a5fa" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0071e3" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .laser { animation: runLaser 4.5s cubic-bezier(.45,0,.55,1) infinite; }
+      @keyframes runLaser { from { transform: translateX(-280px); } to { transform: translateX(1200px); } }
+    </style>
+  </defs>
+  <rect x="0" y="7" width="1200" height="2" rx="1" fill="url(#blueBase)"/>
+  <rect class="laser" x="0" y="6" width="280" height="4" rx="2" fill="url(#laserGlow)"/>
+</svg>

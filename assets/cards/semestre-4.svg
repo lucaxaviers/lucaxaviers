@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="204" viewBox="0 0 232 204" fill="none">
+  <defs>
+    <linearGradient id="sBg_4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1424"/>
+      <stop offset="100%" stop-color="#080d1a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="232" height="204" rx="16" fill="url(#sBg_4)" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Big Number with safe headroom: y=44 ensures 0% cutoff! -->
+  <text x="20" y="46" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="34" font-weight="900" fill="#0071e3">4º</text>
+
+  <!-- Title & Description -->
+  <g transform="translate(20, 0)">
+    <text x="0" y="82" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff">POO &amp; Arquitetura</text>
+    <text x="0" y="106" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="11.5" fill="#94a3b8">Padrões de projeto, qualidade,</text>
+    <text x="0" y="124" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="11.5" fill="#94a3b8">testes e arquitetura de software.</text>
+  </g>
+
+  <!-- Button: Ver Repositório -->
+  <g transform="translate(20, 148)">
+    <rect width="192" height="36" rx="18" fill="#121826" stroke="#222d42" stroke-width="1"/>
+    <path transform="translate(14, 9)" fill="#ffffff" d="M9 0C4.03 0 0 4.03 0 9c0 3.98 2.58 7.35 6.16 8.54.45.08.62-.2.62-.43v-1.52c-2.51.55-3.04-1.21-3.04-1.21-.41-1.04-1-1.32-1-1.32-.82-.56.06-.55.06-.55.9.06 1.38.93 1.38.93.8 1.38 2.11.98 2.62.75.08-.58.31-.98.57-1.2-2-.23-4.1-1-4.1-4.45 0-.98.35-1.79.93-2.42-.09-.23-.4-1.15.09-2.39 0 0 .76-.24 2.48.92.72-.2 1.49-.3 2.26-.3.77 0 1.54.1 2.26.3 1.72-1.16 2.48-.92 2.48-.92.49 1.24.18 2.16.09 2.39.58.63.93 1.44.93 2.42 0 3.46-2.1 4.22-4.11 4.44.32.28.61.82.61 1.66v2.46c0 .24.16.51.63.42C15.42 16.35 18 12.98 18 9c0-4.97-4.03-9-9-9z"/>
+    <text x="38" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="12" font-weight="600" fill="#f1f5f9">Ver Repositório ↗</text>
+  </g>
+</svg>

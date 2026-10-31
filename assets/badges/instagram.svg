@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="36" viewBox="0 0 138 36" fill="none">
+  <rect width="138" height="36" rx="18" fill="#E4405F"/>
+  <g transform="translate(16, 10)" stroke="#ffffff" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="1" width="14" height="14" rx="4"/>
+    <circle cx="8" cy="8" r="3.2"/>
+    <circle cx="12" cy="4" r="0.6" fill="#ffffff"/>
+  </g>
+  <text x="44" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="13" font-weight="600" fill="#ffffff">Instagram</text>
+</svg>

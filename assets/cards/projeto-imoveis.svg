@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="475" height="150" viewBox="0 0 475 150" fill="none">
+  <defs>
+    <linearGradient id="pBg_projeto-" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1020"/>
+      <stop offset="100%" stop-color="#070c18"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Container -->
+  <rect width="475" height="150" rx="18" fill="url(#pBg_projeto-)" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Title & Description (No badges/tags above title!) -->
+  <g transform="translate(24, 0)">
+    <text x="0" y="42" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="20" font-weight="800" fill="#ffffff">Imóveis Lucas Xavier</text>
+    <text x="0" y="68" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="13" fill="#94a3b8">Site imobiliário profissional feito com Next.js e Firebase</text>
+  </g>
+
+  <!-- Tech label & Action Button -->
+  <g transform="translate(24, 96)">
+    <text x="0" y="22" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', monospace" font-size="11.5" fill="#64748b">Next.js · React · TypeScript · Firebase</text>
+    <g transform="translate(250, 0)">
+      <rect width="175" height="34" rx="17" fill="#0071e3" stroke="#222d42" stroke-width="1"/>
+      <text x="87" y="21.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Acessar Plataforma ↗</text>
+    </g>
+  </g>
+</svg>

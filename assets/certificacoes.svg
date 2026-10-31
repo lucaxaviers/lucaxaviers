@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="230" viewBox="0 0 980 230" fill="none">
+  <defs>
+    <linearGradient id="cCardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1020"/>
+      <stop offset="100%" stop-color="#070c18"/>
+    </linearGradient>
+    <style>
+      .c-title { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif; font-size: 14.5px; font-weight: 600; fill: #f1f5f9; }
+      .c-status { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', monospace; font-size: 12px; font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect width="980" height="230" rx="20" fill="url(#cCardBg)" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Col 1 -->
+  <!-- Item 1: Power BI -->
+  <g transform="translate(32, 26)">
+    <rect width="440" height="48" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text class="c-title" x="20" y="29">Power BI &amp; Análise de Dados</text>
+    <g transform="translate(315, 11)">
+      <rect width="105" height="26" rx="13" fill="#0f251e" stroke="#10b981" stroke-width="1"/>
+      <polyline points="12 13 16 17 23 9" stroke="#10b981" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="c-status" x="30" y="17" fill="#34d399">Concluído</text>
+    </g>
+  </g>
+
+  <!-- Item 2: Excel 2021 -->
+  <g transform="translate(32, 88)">
+    <rect width="440" height="48" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text class="c-title" x="20" y="29">Excel 2021 Completo &amp; Avançado</text>
+    <g transform="translate(315, 11)">
+      <rect width="105" height="26" rx="13" fill="#0f251e" stroke="#10b981" stroke-width="1"/>
+      <polyline points="12 13 16 17 23 9" stroke="#10b981" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="c-status" x="30" y="17" fill="#34d399">Concluído</text>
+    </g>
+  </g>
+
+  <!-- Item 3: Montagem e Manutenção -->
+  <g transform="translate(32, 150)">
+    <rect width="440" height="48" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text class="c-title" x="20" y="29">Montagem e Manutenção de PCs</text>
+    <g transform="translate(315, 11)">
+      <rect width="105" height="26" rx="13" fill="#0f251e" stroke="#10b981" stroke-width="1"/>
+      <polyline points="12 13 16 17 23 9" stroke="#10b981" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="c-status" x="30" y="17" fill="#34d399">Concluído</text>
+    </g>
+  </g>
+
+  <!-- Col 2 -->
+  <!-- Item 4: Marketing Digital -->
+  <g transform="translate(508, 26)">
+    <rect width="440" height="48" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text class="c-title" x="20" y="29">Marketing Digital I e II</text>
+    <g transform="translate(315, 11)">
+      <rect width="105" height="26" rx="13" fill="#0f251e" stroke="#10b981" stroke-width="1"/>
+      <polyline points="12 13 16 17 23 9" stroke="#10b981" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="c-status" x="30" y="17" fill="#34d399">Concluído</text>
+    </g>
+  </g>
+
+  <!-- Item 5: Redes Sociais & Produtividade -->
+  <g transform="translate(508, 88)">
+    <rect width="440" height="48" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text class="c-title" x="20" y="29">Redes Sociais, Apps &amp; Produtividade</text>
+    <g transform="translate(315, 11)">
+      <rect width="105" height="26" rx="13" fill="#0f251e" stroke="#10b981" stroke-width="1"/>
+      <polyline points="12 13 16 17 23 9" stroke="#10b981" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="c-status" x="30" y="17" fill="#34d399">Concluído</text>
+    </g>
+  </g>
+
+  <!-- Item 6: Inglês (Em andamento) -->
+  <g transform="translate(508, 150)">
+    <rect width="440" height="48" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text class="c-title" x="20" y="29">Inglês Instrumental &amp; Comunicação</text>
+    <g transform="translate(295, 11)">
+      <rect width="125" height="26" rx="13" fill="#0c1f3d" stroke="#0071e3" stroke-width="1"/>
+      <circle cx="16" cy="13" r="5" stroke="#0071e3" stroke-width="1.8" fill="none"/>
+      <polyline points="16 10 16 13 18 14" stroke="#0071e3" stroke-width="1.4" fill="none"/>
+      <text class="c-status" x="29" y="17" fill="#60a5fa">Em andamento</text>
+    </g>
+  </g>
+</svg>

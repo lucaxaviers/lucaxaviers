@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="36" viewBox="0 0 124 36" fill="none">
+  <rect width="124" height="36" rx="18" fill="#EA4335"/>
+  <g transform="translate(16, 10)" stroke="#ffffff" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="2" width="14" height="12" rx="2"/>
+    <polyline points="2 4 8 9 14 4"/>
+  </g>
+  <text x="44" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif" font-size="13" font-weight="600" fill="#ffffff">E-mail</text>
+</svg>

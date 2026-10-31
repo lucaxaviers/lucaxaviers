@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="46" viewBox="0 0 960 46" role="img" aria-label="Estudante de Engenharia de Software na PUC-Campinas · Técnico em Informática">
+  <defs>
+    <style>
+      .t {
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, Consolas, monospace;
+        font-size: 16.5px;
+        font-weight: 500;
+        fill: #94a3b8;
+      }
+      .hl {
+        fill: #0071e3;
+        font-weight: 700;
+      }
+
+      /* Animates ONCE and stays completely visible and fixed forever */
+      .reveal-box {
+        animation: typeOnce 2.2s cubic-bezier(0.1, 0.7, 0.1, 1) forwards;
+      }
+      @keyframes typeOnce {
+        0%   { width: 0px; }
+        100% { width: 740px; }
+      }
+
+      /* Cursor moves with typing then blinks in place at the end */
+      .cur-wrap {
+        animation: cursorMove 2.2s cubic-bezier(0.1, 0.7, 0.1, 1) forwards;
+      }
+      @keyframes cursorMove {
+        0%   { transform: translateX(110px); }
+        100% { transform: translateX(846px); }
+      }
+
+      .cursor-blink {
+        animation: blink 1.1s steps(1, end) infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%      { opacity: 0; }
+      }
+    </style>
+
+    <clipPath id="clipType">
+      <rect class="reveal-box" x="115" y="0" width="0" height="46"/>
+    </clipPath>
+  </defs>
+
+  <!-- Complete sentence revealed once, stays fixed -->
+  <g clip-path="url(#clipType)">
+    <text class="t" x="115" y="28">Estudante de <tspan class="hl">Engenharia de Software</tspan> na PUC-Campinas · Técnico em Informática</text>
+  </g>
+
+  <!-- Cursor at the end -->
+  <g class="cur-wrap">
+    <rect class="cursor-blink" x="0" y="12" width="2.2" height="20" rx="1" fill="#0071e3"/>
+  </g>
+</svg>

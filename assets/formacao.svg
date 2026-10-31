@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="240" viewBox="0 0 980 240" fill="none">
+  <defs>
+    <linearGradient id="fCardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1020"/>
+      <stop offset="100%" stop-color="#070c18"/>
+    </linearGradient>
+    <style>
+      .f-course { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif; font-size: 16px; font-weight: 700; fill: #ffffff; }
+      .f-inst { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, sans-serif; font-size: 13.5px; fill: #94a3b8; }
+      .f-pill-text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', monospace; font-size: 12px; font-weight: 600; }
+    </style>
+  </defs>
+
+  <!-- Container -->
+  <rect width="980" height="240" rx="20" fill="url(#fCardBg)" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Row 1: Engenharia de Software -->
+  <g transform="translate(32, 28)">
+    <g transform="translate(0, 0)">
+      <circle cx="20" cy="20" r="20" fill="#0071e3" fill-opacity="0.12"/>
+      <path transform="translate(9, 9)" stroke="#0071e3" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round" d="M20 7v6M2 7l9-4 9 4-9 4z M5 9v4c2.5 2.5 7.5 2.5 10 0V9"/>
+      
+      <text class="f-course" x="54" y="18">Engenharia de Software</text>
+      <text class="f-inst" x="54" y="36">PUC-Campinas · Pontifícia Universidade Católica</text>
+    </g>
+
+    <!-- Pill Status: Cursando (100% Static, clean, no bouncing dot) -->
+    <g transform="translate(680, 5)">
+      <rect width="230" height="34" rx="17" fill="#0c1f3d" stroke="#0071e3" stroke-width="1.2"/>
+      <circle cx="20" cy="17" r="4" fill="#0071e3"/>
+      <text class="f-pill-text" x="34" y="21.5" fill="#60a5fa">2025 — 2028 · Cursando</text>
+    </g>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="32" y1="98" x2="948" y2="98" stroke="#172236" stroke-width="1"/>
+
+  <!-- Row 2: Técnico em Informática -->
+  <g transform="translate(32, 114)">
+    <g transform="translate(0, 0)">
+      <circle cx="20" cy="20" r="20" fill="#10b981" fill-opacity="0.1"/>
+      <path transform="translate(10, 10)" stroke="#10b981" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round" d="M3 3h14a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm-2 14h18"/>
+      
+      <text class="f-course" x="54" y="18">Técnico em Informática</text>
+      <text class="f-inst" x="54" y="36">Colégio Técnico Bento Quirino</text>
+    </g>
+
+    <!-- Pill Status: Concluído -->
+    <g transform="translate(710, 5)">
+      <rect width="200" height="34" rx="17" fill="#0f251e" stroke="#10b981" stroke-width="1.2"/>
+      <polyline points="16 17 20 21 27 13" stroke="#10b981" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="f-pill-text" x="36" y="21.5" fill="#34d399">2022 — 2024 · Formado</text>
+    </g>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="32" y1="168" x2="948" y2="168" stroke="#172236" stroke-width="1"/>
+
+  <!-- Row 3: Técnico em Logística -->
+  <g transform="translate(32, 184)">
+    <g transform="translate(0, 0)">
+      <circle cx="20" cy="18" r="18" fill="#10b981" fill-opacity="0.1"/>
+      <path transform="translate(10, 8)" stroke="#10b981" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round" d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+      
+      <text class="f-course" x="54" y="16">Técnico em Logística</text>
+      <text class="f-inst" x="54" y="33">Colégio Técnico Bento Quirino</text>
+    </g>
+
+    <!-- Pill Status: Concluído -->
+    <g transform="translate(710, 2)">
+      <rect width="200" height="34" rx="17" fill="#0f251e" stroke="#10b981" stroke-width="1.2"/>
+      <polyline points="16 17 20 21 27 13" stroke="#10b981" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="f-pill-text" x="36" y="21.5" fill="#34d399">2022 — 2024 · Formado</text>
+    </g>
+  </g>
+</svg>
